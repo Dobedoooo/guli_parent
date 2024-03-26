@@ -1,0 +1,53 @@
+2024-03-23 15:13:57.879 [main] INFO  com.atguigu.edu.EduApplication - Starting EduApplication on DESKTOP-KL51EK1 with PID 1312 (C:\Users\dobedoo\Documents\100-Courses\Java\guli-parent\service\service-edu\target\classes started by dobedoo in C:\Users\dobedoo\Documents\100-Courses\Java\guli-parent)
+2024-03-23 15:13:57.882 [main] INFO  com.atguigu.edu.EduApplication - The following profiles are active: dev
+2024-03-23 15:13:58.387 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2024-03-23 15:13:58.389 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2024-03-23 15:13:58.406 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6ms. Found 0 repository interfaces.
+2024-03-23 15:13:58.547 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-03-23 15:13:58.702 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2024-03-23 15:13:58.708 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2024-03-23 15:13:58.709 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-03-23 15:13:58.709 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2024-03-23 15:13:58.773 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-03-23 15:13:58.773 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 868 ms
+2024-03-23 15:13:58.885 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-03-23 15:14:00.517 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-03-23 15:14:00.782 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-03-23 15:14:00.843 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-03-23 15:14:01.115 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2024-03-23 15:14:01.123 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2024-03-23 15:14:01.146 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2024-03-23 15:14:01.228 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2024-03-23 15:14:01.250 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2024-03-23 15:14:01.252 [main] INFO  com.atguigu.edu.EduApplication - Started EduApplication in 3.744 seconds (JVM running for 4.384)
+2024-03-23 15:14:05.664 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-03-23 15:14:05.665 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-03-23 15:14:05.845 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-03-23 15:23:04.895 [main] INFO  com.atguigu.edu.EduApplication - Starting EduApplication on DESKTOP-KL51EK1 with PID 17956 (C:\Users\dobedoo\Documents\100-Courses\Java\guli-parent\service\service-edu\target\classes started by dobedoo in C:\Users\dobedoo\Documents\100-Courses\Java\guli-parent)
+2024-03-23 15:23:04.898 [main] INFO  com.atguigu.edu.EduApplication - The following profiles are active: dev
+2024-03-23 15:23:05.309 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2024-03-23 15:23:05.311 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2024-03-23 15:23:05.324 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5ms. Found 0 repository interfaces.
+2024-03-23 15:23:05.470 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-03-23 15:23:05.601 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2024-03-23 15:23:05.605 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2024-03-23 15:23:05.606 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-03-23 15:23:05.606 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2024-03-23 15:23:05.661 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-03-23 15:23:05.661 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 720 ms
+2024-03-23 15:23:05.755 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-03-23 15:23:06.837 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-03-23 15:23:07.065 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-03-23 15:23:07.119 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-03-23 15:23:07.364 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2024-03-23 15:23:07.372 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2024-03-23 15:23:07.397 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2024-03-23 15:23:07.477 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2024-03-23 15:23:07.498 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2024-03-23 15:23:07.500 [main] INFO  com.atguigu.edu.EduApplication - Started EduApplication in 2.865 seconds (JVM running for 3.364)
+2024-03-23 15:23:33.359 [http-nio-8081-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-03-23 15:23:33.359 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-03-23 15:23:33.362 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2024-03-23 21:14:07.929 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-03-23 21:14:07.934 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-03-23 21:14:07.937 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.

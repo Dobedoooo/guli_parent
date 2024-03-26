@@ -1,0 +1,21 @@
+2024-03-21 15:09:29.721 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.atguigu.oss]' package. Please check your configuration.
+2024-03-21 15:09:30.403 [main] WARN  o.s.c.netflix.archaius.ArchaiusAutoConfiguration - No spring.application.name found, defaulting to 'application'
+2024-03-21 15:09:30.404 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-03-21 15:09:30.406 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-03-21 15:09:30.537 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.boot.autoconfigure.jdbc.DataSourceJmxConfiguration$Hikari': Invocation of init method failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'scopedTarget.dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+2024-03-21 16:03:23.932 [main] WARN  o.s.c.netflix.archaius.ArchaiusAutoConfiguration - No spring.application.name found, defaulting to 'application'
+2024-03-21 16:03:23.933 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-03-21 16:03:23.935 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-03-21 16:03:24.941 [main] WARN  o.s.c.alibaba.nacos.registry.NacosServiceRegistry - No service to register for nacos client...
+2024-03-21 16:05:29.400 [SpringContextShutdownHook] WARN  o.s.c.alibaba.nacos.registry.NacosServiceRegistry - No dom to de-register for nacos client...
+2024-03-21 16:05:34.388 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'constantPropertiesUtil': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'aliyun.oss.file.filehost' in value "${aliyun.oss.file.filehost}"
+2024-03-21 16:09:27.709 [main] WARN  o.s.c.netflix.archaius.ArchaiusAutoConfiguration - No spring.application.name found, defaulting to 'application'
+2024-03-21 16:09:27.711 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-03-21 16:09:27.713 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-03-21 16:09:28.729 [main] WARN  o.s.c.alibaba.nacos.registry.NacosServiceRegistry - No service to register for nacos client...
+2024-03-21 16:12:16.084 [SpringContextShutdownHook] WARN  o.s.c.alibaba.nacos.registry.NacosServiceRegistry - No dom to de-register for nacos client...
+2024-03-21 16:12:19.484 [main] WARN  o.s.c.netflix.archaius.ArchaiusAutoConfiguration - No spring.application.name found, defaulting to 'application'
+2024-03-21 16:12:19.486 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-03-21 16:12:19.488 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-03-21 16:12:20.538 [main] WARN  o.s.c.alibaba.nacos.registry.NacosServiceRegistry - No service to register for nacos client...
+2024-03-21 16:28:23.151 [SpringContextShutdownHook] WARN  o.s.c.alibaba.nacos.registry.NacosServiceRegistry - No dom to de-register for nacos client...

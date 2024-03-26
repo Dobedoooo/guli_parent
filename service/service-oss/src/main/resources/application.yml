@@ -1,0 +1,8 @@
+server:
+    port: 8082
+    application:
+        name: service-oss
+spring:
+    profiles:
+        active: dev
+
