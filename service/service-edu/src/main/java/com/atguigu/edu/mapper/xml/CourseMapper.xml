@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.atguigu.edu.mapper.CourseMapper">
+    <!--SQL语句：根据课程id查询课程信息-->
+    <select id="getPublishInfo" resultType="com.atguigu.edu.entity.vo.CoursePublishVO">
+        SELECT c.id, c.title, c.price, c.lesson_num AS lessonNum, c.status, c.cover,
+               t.name AS teacherName, s1.title AS subjectLevelOne, s2.title AS subjectLevelTwo
+        FROM edu_course c
+                 LEFT OUTER JOIN edu_teacher t ON c.teacher_id = t.id
+                 LEFT OUTER JOIN edu_subject s1 ON c.subject_parent_id = s1.id
+                 LEFT OUTER JOIN edu_subject s2 ON c.subject_id = s2.id
+                 LEFT OUTER JOIN edu_course_description cd ON c.id = cd.id
+        WHERE c.id = #{courseId};
+    </select>
+</mapper>

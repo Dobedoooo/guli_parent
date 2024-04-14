@@ -1,0 +1,45 @@
+2024-04-01 09:35:37.453 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-04-01 09:35:37.457 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-04-01 09:39:11.868 [main] WARN  o.s.c.netflix.archaius.ArchaiusAutoConfiguration - No spring.application.name found, defaulting to 'application'
+2024-04-01 09:39:11.870 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-04-01 09:39:11.872 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-04-01 09:39:12.816 [main] WARN  o.s.c.alibaba.nacos.registry.NacosServiceRegistry - No service to register for nacos client...
+2024-04-01 09:40:24.074 [SpringContextShutdownHook] WARN  o.s.c.alibaba.nacos.registry.NacosServiceRegistry - No dom to de-register for nacos client...
+2024-04-01 09:40:38.516 [main] WARN  o.s.c.netflix.archaius.ArchaiusAutoConfiguration - No spring.application.name found, defaulting to 'application'
+2024-04-01 09:40:38.518 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-04-01 09:40:38.520 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-04-01 09:40:39.444 [main] WARN  o.s.c.alibaba.nacos.registry.NacosServiceRegistry - No service to register for nacos client...
+2024-04-01 09:41:28.233 [SpringContextShutdownHook] WARN  o.s.c.alibaba.nacos.registry.NacosServiceRegistry - No dom to de-register for nacos client...
+2024-04-01 09:41:31.577 [main] WARN  o.s.c.netflix.archaius.ArchaiusAutoConfiguration - No spring.application.name found, defaulting to 'application'
+2024-04-01 09:41:31.578 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-04-01 09:41:31.581 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-04-01 09:41:32.482 [main] WARN  o.s.c.alibaba.nacos.registry.NacosServiceRegistry - No service to register for nacos client...
+2024-04-01 09:48:38.943 [SpringContextShutdownHook] WARN  o.s.c.alibaba.nacos.registry.NacosServiceRegistry - No dom to de-register for nacos client...
+2024-04-01 09:50:40.094 [main] WARN  o.s.c.netflix.archaius.ArchaiusAutoConfiguration - No spring.application.name found, defaulting to 'application'
+2024-04-01 09:50:40.096 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-04-01 09:50:40.098 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-04-01 09:50:41.059 [main] WARN  o.s.c.alibaba.nacos.registry.NacosServiceRegistry - No service to register for nacos client...
+2024-04-01 09:52:00.085 [SpringContextShutdownHook] WARN  o.s.c.alibaba.nacos.registry.NacosServiceRegistry - No dom to de-register for nacos client...
+2024-04-01 09:52:03.467 [main] WARN  o.s.c.netflix.archaius.ArchaiusAutoConfiguration - No spring.application.name found, defaulting to 'application'
+2024-04-01 09:52:03.468 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-04-01 09:52:03.471 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-04-01 09:52:04.382 [main] WARN  o.s.c.alibaba.nacos.registry.NacosServiceRegistry - No service to register for nacos client...
+2024-04-01 09:53:06.630 [SpringContextShutdownHook] WARN  o.s.c.alibaba.nacos.registry.NacosServiceRegistry - No dom to de-register for nacos client...
+2024-04-01 09:53:09.895 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-04-01 09:53:09.897 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-04-01 09:54:14.073 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-04-01 09:54:14.075 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-04-01 09:57:56.923 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-04-01 09:57:56.925 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-04-01 09:57:59.148 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-04-01 09:57:59.151 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-04-01 10:25:32.607 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-04-01 10:25:32.610 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-04-01 10:33:59.477 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-04-01 10:33:59.480 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-04-01 10:33:59.608 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-04-01 10:33:59.610 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-04-01 10:37:21.646 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-04-01 10:37:21.648 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-04-01 10:37:28.324 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2024-04-01 10:37:28.326 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
